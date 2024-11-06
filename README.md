@@ -1,6 +1,5 @@
-# vue-crash-course
-
-This template should help get you started developing with Vue 3 in Vite.
+# TuJobs
+This is a jobs board developed with Vue. It covers CRUD operations like updating, deleting, displaying and updating job information. The job information is handle using json local server.
 
 ## Recommended IDE Setup
 
